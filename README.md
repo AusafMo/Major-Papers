@@ -1,1 +1,3 @@
-- [ ] OpenAI CLIP Great walkthroughs [Paper Walkthrough](https://www.youtube.com/watch?v=fQyHEXZB-nM) and [Implementation](https://www.youtube.com/watch?v=jwZQD0Cqz4o)
+- [ ] OpenAI CLIP Great walkthroughs
+    - [x] [Paper Walkthrough](https://www.youtube.com/watch?v=fQyHEXZB-nM)
+    - [ ] [Implementation](https://www.youtube.com/watch?v=jwZQD0Cqz4o)
